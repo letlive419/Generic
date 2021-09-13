@@ -1,0 +1,12 @@
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\bin\Debug\Generic Stuff.exe.config
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\bin\Debug\Generic Stuff.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\bin\Debug\Generic Stuff.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\bin\Debug\Generic Stuff.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\obj\Debug\Generic Stuff.vbprojAssemblyReference.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\obj\Debug\Generic_Stuff.frmGeneric.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\obj\Debug\Generic_Stuff.Resources.resources
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\obj\Debug\Generic Stuff.vbproj.GenerateResource.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\obj\Debug\Generic Stuff.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\obj\Debug\Generic Stuff.exe
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\obj\Debug\Generic Stuff.xml
+C:\Users\Elvis\Documents\VSFIUNEW\sample-5---generic-stuff-ecruz107\Generic Stuff\Generic Stuff\obj\Debug\Generic Stuff.pdb
